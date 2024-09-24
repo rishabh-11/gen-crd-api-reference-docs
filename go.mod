@@ -4,7 +4,7 @@ go 1.21.0
 
 require (
 	github.com/russross/blackfriday/v2 v2.1.0
-	k8s.io/gengo/v2 v2.0.0-20240404160639-a0386bf69313
+	k8s.io/gengo/v2 v2.0.0-20240911193312-2b36238f13e9
 	k8s.io/klog/v2 v2.130.1
 )
 
